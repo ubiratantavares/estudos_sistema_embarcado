@@ -63,7 +63,7 @@
 
 O ESP32 é uma série de SoC (System on Chip) de baixo custo, desenvolvido pela Espressif Systems para atender a demanda de dispositivos para aplicações de Internet das Coisas.
 
-![ESP32](s://github.com/ubiratantavares/estudos_sistema_embarcado/blob/main/INPE/ESP32/ESP32.png)
+![ESP32](https://github.com/ubiratantavares/estudos_sistema_embarcado/blob/main/INPE/ESP32/ESP32.png)
 
 ### Características do ESP32
 
